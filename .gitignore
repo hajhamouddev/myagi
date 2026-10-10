@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+# مخرجات البناء (تُولَّد من Flutter)
+android-release-apk/
+ios-release-build/
